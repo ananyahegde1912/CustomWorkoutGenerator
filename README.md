@@ -1,4 +1,4 @@
-**Workout Generator**
+## **Workout Generator**
 
 ## **Description**
 
