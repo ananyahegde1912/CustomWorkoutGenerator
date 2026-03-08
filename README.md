@@ -1,4 +1,4 @@
- # **Workout Generator**
+<img width="677" height="370" alt="Screenshot 2026-03-07 231436" src="https://github.com/user-attachments/assets/e27e061c-ae55-4766-a8c6-a0680eb0b369" /> # **Workout Generator**
 
 ## **Description**
 
@@ -16,6 +16,8 @@ I created a Workout Generator app that creates a personalized workout plan based
   
 
 <img width="741" height="470" alt="Screenshot 2026-03-07 231331" src="https://github.com/user-attachments/assets/a726caff-2448-4113-b1f2-64252b2dfe71" />
+<img width="677" height="370" alt="Screenshot 2026-03-07 231436" src="https://github.com/user-attachments/assets/93a0d5bf-84f7-4935-89d4-16fc15df1e7a" />
+<img width="736" height="253" alt="Screenshot 2026-03-07 231512" src="https://github.com/user-attachments/assets/f2a4c0a3-c2d2-46bc-9e2b-7cf7ac364ed8" />
 
 
 ## **How It Works**
