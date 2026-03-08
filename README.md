@@ -1,4 +1,4 @@
-<img width="741" height="470" alt="Screenshot 2026-03-07 231331" src="https://github.com/user-attachments/assets/8f1685af-7f33-4561-9a7c-6fe7482065ff" /># **Workout Generator**
+**Workout Generator**
 
 ## **Description**
 
