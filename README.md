@@ -1,4 +1,4 @@
-# **Workout Generator**
+<img width="741" height="470" alt="Screenshot 2026-03-07 231331" src="https://github.com/user-attachments/assets/8f1685af-7f33-4561-9a7c-6fe7482065ff" /># **Workout Generator**
 
 ## **Description**
 
@@ -14,7 +14,8 @@ I created a Workout Generator app that creates a personalized workout plan based
 - The program generates a personalized workout plan based on all the selections.
 - Rest time between exercises varies depending on the chosen workout and difficulty.
   
-<img width="743" height="385" alt="Screenshot 2026-03-07 231543" src="https://github.com/user-attachments/assets/de58eaa9-8789-48f4-851a-f98891d68128" />
+
+<img width="741" height="470" alt="Screenshot 2026-03-07 231331" src="https://github.com/user-attachments/assets/a726caff-2448-4113-b1f2-64252b2dfe71" />
 
 
 ## **How It Works**
